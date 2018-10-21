@@ -1,5 +1,5 @@
 _repo: The-Jargon-File-Version-422-20-Aug-2000_3008
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Computers -- Humor'
 - !lcsh 'Electronic data processing -- Terminology -- Humor'
 - !lcsh 'Computers -- Slang -- Dictionaries'
+- GITenberg
 title: The Jargon File, Version 4.2.2, 20 Aug 2000
 url: http://www.gutenberg.org/ebooks/3008
